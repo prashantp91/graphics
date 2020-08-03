@@ -1,4 +1,3 @@
-# tajmahal-graphics
-In this repository I have drawn Tajmahal using graphics in cpp programming language in my collage days.
+# graphics
+You can find here all graphics realated stuff.
 
-![Screenshot](/cpp/doc/Capture.PNG?raw=true)
